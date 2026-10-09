@@ -1,0 +1,24 @@
+# Учебные цены в рублях. Это заданные значения для лабораторной, а не цены магазинов.
+AMD Ryzen 5 5600G=11000
+AMD Ryzen 5 5500=8000
+AMD Ryzen 5 5600=10000
+Intel Core i3-12100=11000
+Intel Core i5-12400=15000
+Intel Core i3-12100F=8000
+Intel Core i5-12400F=12000
+ASUS PRIME B450M-K II=6500
+ASUS PRIME H610M-K D4=7500
+Встроенная Radeon Graphics=0
+Встроенная Intel UHD 730=0
+Radeon RX 6600 8 ГБ=20000
+GeForce RTX 4060 8 ГБ=30000
+GeForce RTX 5060 Ti 16 ГБ=50000
+DDR4-3200 16 ГБ (2 x 8)=4000
+DDR4-3200 32 ГБ (2 x 16)=7000
+Kingston NV3 500 ГБ=3500
+Kingston NV3 1 ТБ=5500
+Kingston NV3 2 ТБ=10000
+DeepCool PK550D 550 Вт=4500
+DeepCool PK650D 650 Вт=5500
+DeepCool AG400=2500
+DeepCool MATREXX 40=4500
